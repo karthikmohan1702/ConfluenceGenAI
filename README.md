@@ -31,5 +31,7 @@ To get started with the Confluence Chat Bot, follow these steps:
 
 
 
-https://github.com/karthikmohan1702/ConfluenceGenAI/assets/47082769/11b241ba-80b4-4680-9e67-c2f71faa6b60
+https://github.com/karthikmohan1702/ConfluenceGenAI/assets/47082769/2ea04f33-a554-4f5d-b0d1-782e6b6c1ff7
+
+
 
